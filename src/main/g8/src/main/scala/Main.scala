@@ -1,3 +1,3 @@
-object Main extend App {
+object Main extends App {
   println("main start!")
 }
