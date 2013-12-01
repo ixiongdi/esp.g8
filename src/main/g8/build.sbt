@@ -1,3 +1,5 @@
+seq(Revolver.settings: _*)
+
 name := "hello"
 
 version := "1.0"
